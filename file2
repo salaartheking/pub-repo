@@ -1,7 +1,7 @@
-print("hello from dev2")
+print("hello from dev2")  #from dev1
 
-# add two integer numbers
-a = 1
+# add two integer numbers 
+a = 1			#from dev1
 b = 2
 c = a + b
-print(c)
+print(c)		#from dev1
